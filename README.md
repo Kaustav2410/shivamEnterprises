@@ -28,7 +28,7 @@ This project is built using modern web technologies, providing an optimized and 
    ```
 
 4. **Open the project in your browser:**
-   - Navigate to `http://localhost:3000` to see the app running.
+   - Navigate to `http://localhost:5173` to see the app running.
 
 ### **Build the project for production:**
    ```bash
